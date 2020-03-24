@@ -77,7 +77,7 @@ class App extends React.Component {
                           fill: false,
                           lineTension: 0.1,
                           backgroundColor: "rgba(75,192,192,0.4)",
-                          borderColor: colors.primary,
+                          borderColor: colors.info,
                           borderCapStyle: "butt",
                           borderDash: [],
                           borderDashOffset: 0.0,
